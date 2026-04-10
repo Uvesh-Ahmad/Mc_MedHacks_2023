@@ -18,7 +18,7 @@
 
 ## My Contribution & Learning Experience
 
-This repository represents my complete learning journey and hands-on work from the **McMedHacks 2021** workshop series.
+This repository represents my complete learning journey and hands-on work from the **McMedHacks 2023** workshop series.
 
 This course helped me learn a great deal and significantly enhanced my understanding of **data science, deep learning, and medical imaging concepts**. I also had valuable interactions with senior faculty members and mentors, which further enriched my learning experience.
 
